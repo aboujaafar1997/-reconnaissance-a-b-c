@@ -1,0 +1,25 @@
+C:\Users\nmadr\Downloads\NeuralNetworksLibrary-master\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.deps.json
+C:\Users\nmadr\Downloads\NeuralNetworksLibrary-master\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.dll
+C:\Users\nmadr\Downloads\NeuralNetworksLibrary-master\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.pdb
+C:\Users\nmadr\Downloads\NeuralNetworksLibrary-master\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.csprojAssemblyReference.cache
+C:\Users\nmadr\Downloads\NeuralNetworksLibrary-master\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.AssemblyInfoInputs.cache
+C:\Users\nmadr\Downloads\NeuralNetworksLibrary-master\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.AssemblyInfo.cs
+C:\Users\nmadr\Downloads\NeuralNetworksLibrary-master\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.dll
+C:\Users\nmadr\Downloads\NeuralNetworksLibrary-master\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.pdb
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.deps.json
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.pdb
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.csprojAssemblyReference.cache
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.AssemblyInfoInputs.cache
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.AssemblyInfo.cs
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.pdb
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.deps.json
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\bin\Debug\netstandard2.0\NeuralNetworks.Library.pdb
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.csprojAssemblyReference.cache
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.csproj.CoreCompileInputs.cache
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.AssemblyInfoInputs.cache
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.AssemblyInfo.cs
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\NeuralNetworks.Library\obj\Debug\netstandard2.0\NeuralNetworks.Library.pdb

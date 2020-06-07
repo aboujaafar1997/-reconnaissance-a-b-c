@@ -1,0 +1,49 @@
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NeuralNetworks.Library.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NeuralNetworks.Library.pdb
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Projdev\Formation\Fac\Machine Learning\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NeuralNetworks.Library.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NeuralNetworks.Library.pdb
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\abouj\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abouj\\Desktop\\WindowsFormsApp1\\NeuralNetworks.Library\\NeuralNetworks.Library.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abouj\\Desktop\\WindowsFormsApp1\\NeuralNetworks.Library\\NeuralNetworks.Library.csproj": {
+      "version": "2.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abouj\\Desktop\\WindowsFormsApp1\\NeuralNetworks.Library\\NeuralNetworks.Library.csproj",
+        "projectName": "GuardianDevelopment.NeuralNetworks.Library",
+        "projectPath": "C:\\Users\\abouj\\Desktop\\WindowsFormsApp1\\NeuralNetworks.Library\\NeuralNetworks.Library.csproj",
+        "packagesPath": "C:\\Users\\abouj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abouj\\Desktop\\WindowsFormsApp1\\NeuralNetworks.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abouj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "NuGet.Build.Packaging": {
+              "target": "Package",
+              "version": "[0.1.324, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
